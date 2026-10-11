@@ -1,0 +1,11 @@
+node_modules
+.vercel
+.tanstack
+dist
+.output
+screenshots
+artifacts
+.env
+.env.*
+*.log
+.DS_Store
